@@ -1,15 +1,6 @@
 # 🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
 This is a complete, real-world data analyst portfolio project based on an e-commerce inventory dataset scraped from [Zepto](https://www.zeptonow.com/) — one of India’s fastest-growing quick-commerce startups. This project simulates real analyst workflows, from raw data exploration to business-focused data analysis.
 
-This project is perfect for:
-- 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
-- 📚 Anyone learning SQL hands-on
-- 💼 Preparing for interviews in retail, e-commerce, or product analytics
-
-# **🎥 Watch this [YouTube video](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2) to implement the full project from scratch:**  
-[![SQL Data Analyst Portfolio Project using Zepto Inventory Dataset](https://github.com/user-attachments/assets/a1895ada-15e4-4f98-aa0d-597a4092c845)](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2)
-🔗 *Link to Video:* [Watch on Youtube](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2)
-
 ## 📌 Project Overview
 
 The goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:
@@ -148,20 +139,10 @@ CREATE TABLE zepto (
 
 MIT — feel free to fork, star, and use in your portfolio.
 
-## 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty — a Data Analyst & Content Creator.
-I break down complex data topics into simple, practical content that actually helps you land a job.
-
  ### 🚀 Stay Connected & Join the Data Drool Community
 If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
 
-🎥 YouTube: [Amlan Mohanty](https://www.youtube.com/@amlanmohanty1)
-- Beginner-friendly tutorials, real-world projects, job and career advice
-
-📺 Instagram: [data.drool](https://www.instagram.com/data.drool/)
-- Quick SQL tips, data memes, and behind-the-scenes content
-
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
+💼 LinkedIn: https://www.linkedin.com/in/heysunilkumar/
 - Let’s connect professionally and grow your data career
 
 
